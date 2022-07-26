@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NextGenIoT_API_Suite">
+
+<!-- <listeners>
+<listener class-name="listeners.Listeners"></listener>
+</listeners> -->
+
+<test name="NextGenIoT_API_TestSuite">
+
+<!-- <packages> <package name="nextgeniot.testsuite" /> </packages> -->
+
+<!-- <Parameters name="grant_type" value="client_credentials" /> <Parameters  -->
+
+
+<classes>
+
+<class name="Testng.Practice.App" />
+</classes>
+
+</test>
+
+<!-- <packages> <package name="nextgeniot.testsuite" /> </packages> -->
+
+<!-- <Parameters name="grant_type" value="client_credentials" /> <Parameters
+
+
+<!-- Test -->
+
+</suite> <!-- Suite -->
