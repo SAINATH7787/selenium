@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T11:05:44 IST" name="Suite" finished-at="2022-07-26T11:05:44 IST" duration-ms="98">
+    <groups>
+      <group name="san">
+        <method signature="test.ST()[pri:2, instance:practice.test@7f010382]" name="ST" class="practice.test"/>
+      </group> <!-- san -->
+      <group name="sai">
+        <method signature="test.invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" name="invoke" class="practice.test"/>
+      </group> <!-- sai -->
+    </groups>
+    <test started-at="2022-07-26T11:05:44 IST" name="Test" finished-at="2022-07-26T11:05:44 IST" duration-ms="98">
+      <class name="practice.test">
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="invoke(java.lang.String)[pri:1, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="invoke" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="BM" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="ST()[pri:2, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="ST" finished-at="2022-07-26T11:05:44 IST" depends-on-methods="practice.test.invoke" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ST -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:practice.test@7f010382]" started-at="2022-07-26T11:05:44 IST" name="AM" finished-at="2022-07-26T11:05:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+      </class> <!-- practice.test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
