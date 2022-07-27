@@ -25,7 +25,7 @@ public class Loadtime {
 		driver.manage().window().maximize();
 
 		long st = System.currentTimeMillis();
-		driver.get("https://ng-iot-qa1-feapp.azurewebsites.net/home");
+		driver.get("https://www.facebook.com");
 
 		long fin = System.currentTimeMillis();
 		System.out.println(fin - st);
