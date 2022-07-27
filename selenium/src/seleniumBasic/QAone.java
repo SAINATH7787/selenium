@@ -30,7 +30,7 @@ public class QAone {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 		driver.manage().timeouts().pageLoadTimeout(30,TimeUnit.SECONDS);
-		driver.get("https://ng-iot-qa1-feapp.azurewebsites.net/home");
+		driver.get("https://www.amazon.com");
 		driver.manage().timeouts().pageLoadTimeout(30,TimeUnit.SECONDS);
 		driver.findElement(By.xpath("//*[@id='i0116']")).sendKeys("gsainath@beckman.com");
 		driver.findElement(By.xpath("//*[@id='idSIButton9']")).click();
