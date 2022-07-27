@@ -3,12 +3,12 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   
-  <parameter name = "num" value = "10" />
+    
+  <parameter name = "name" value = "SAINATH" />
+  <parameter name = "num" value = "20"/>
   
-  <classes>
-  <class name = "practice.test" />
-  </classes>
-  
-  
+    <classes>
+      <class name="com.testng.practice.Methods"/>
+    </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
