@@ -23,7 +23,7 @@ public class BasicClass {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
-		driver.get("https://danaher.udemy.com/");
+		driver.get("https://udemy.com/");
 
 		driver.findElement(By.xpath("//*[@id='form-group--3']")).sendKeys("sainathsai7787@gmail.com");
 		try {
