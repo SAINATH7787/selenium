@@ -32,7 +32,7 @@ public class Loadtime {
 	}
 
 	public static void main(String[] args) {
-		BasicClass o = new BasicClass();
+		Loadtime o = new Loadtime();
 		o.invoke();
 
 	}
