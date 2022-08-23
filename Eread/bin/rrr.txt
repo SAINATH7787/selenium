@@ -1,0 +1,52 @@
+Heading
+
+
+
+
+Professional Summary
+Seeking to work in a dynamic environment and contribute towards the goals of the organization using my technical knowledge and skills, in a mutually beneficial way.
+
+
+Experience
+QA TESTER(INTERN)-8/2021 to 7/2022
+Beckman Coulter - Bengaluru
+
+· Involved in analysis of the requirements.
+· Involved in the creation of the test cases and test scripts according to functional specifications.
+· Involved in test report.
+· Performed Functionality Testing, Retesting and Regression Testing.
+· Also involved on the automation testing by using Selenium Webdriver.
+· Creating the classes of POM and Test as per the requirement of the framework.
+· Involved in the daily scrum meeting.
+· Used Azure DevOps to write the testcases.
+
+Education
+
+
+Project Details
+Name : Phoenix
+Domain : Health care
+The team performed some POC activities on a few different clouds and IoT platforms and settled on Microsoft Azure.
+The Majority of Beckman Instruments are built on a windows platform, which ties well into the rest of the Microsoft ecosystem. IoT hub is the cloud gateway which the majority of device to cloud and cloud to device traffic is routed. It essentially acts as message broker between devices and backend services. Additionally, it provides feature associated with device management, routing, and event ingestion.
+Data Lake is essentially a Blob Storage account that is optimized for big data applications. It is organized in a hierarchical way and it allows for granular access control via active directory integration. The Edge SDK cloud be installed on the RAP box, and the RAP Box would then act as the connection point to Azure and it would transform the incoming data into the CDM Then transmit it to Azure.
+
+Core Qualifications
+Automation Testing,Test case design, review & execution. Manual Testing,
+Regression testing, Black Box testing, and System testing, integration testing.
+Have knowledge of Selenium web driver and can write Java automationscript.
+OS Platform : Windows, Ubuntu
+Tools : MicrosoftAzure.
+Database : My SQL.
+
+Technical Skills
+C Language,
+JAVA,
+Selenium,
+TestNG Framework,
+Data Driven Framework,
+Keyword Driven Framework.
+
+
+
+
+
