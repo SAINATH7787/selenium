@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T12:34:32 IST" name="Suite" finished-at="2022-08-23T12:34:59 IST" duration-ms="26850">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T12:34:32 IST" name="Test" finished-at="2022-08-23T12:34:59 IST" duration-ms="26850">
+      <class name="com.Dataprovider.DataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:33 IST" name="setUp" finished-at="2022-08-23T12:34:39 IST" duration-ms="5735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="halfEbayRegPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:39 IST" name="halfEbayRegPageTest" data-provider="getTestData" finished-at="2022-08-23T12:34:40 IST" duration-ms="783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mno]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc@mno.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abcmno]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:40 IST" name="tearDown" finished-at="2022-08-23T12:34:41 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:41 IST" name="setUp" finished-at="2022-08-23T12:34:45 IST" duration-ms="4692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="halfEbayRegPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:45 IST" name="halfEbayRegPageTest" data-provider="getTestData" finished-at="2022-08-23T12:34:46 IST" duration-ms="799" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[def]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pqr]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[def@pqr.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[defpqr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:46 IST" name="tearDown" finished-at="2022-08-23T12:34:47 IST" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:47 IST" name="setUp" finished-at="2022-08-23T12:34:51 IST" duration-ms="4664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="halfEbayRegPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:51 IST" name="halfEbayRegPageTest" data-provider="getTestData" finished-at="2022-08-23T12:34:52 IST" duration-ms="789" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ghi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[stu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ghi@stu.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ghistu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:52 IST" name="tearDown" finished-at="2022-08-23T12:34:53 IST" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:53 IST" name="setUp" finished-at="2022-08-23T12:34:57 IST" duration-ms="4550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="halfEbayRegPageTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:57 IST" name="halfEbayRegPageTest" data-provider="getTestData" finished-at="2022-08-23T12:34:58 IST" duration-ms="838" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jkl]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vwx]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jkl@vwx.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jklvwx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- halfEbayRegPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Dataprovider.DataTest@192c3f1e]" started-at="2022-08-23T12:34:58 IST" name="tearDown" finished-at="2022-08-23T12:34:59 IST" duration-ms="745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Dataprovider.DataTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
